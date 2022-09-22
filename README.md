@@ -1,9 +1,5 @@
 👋 Hi, I’m Van (@vanngo-okta).
 
-👀 I'm curious of how big data is processed. Currently, I'm taking a course on machine learning...hoping to wrap it up soon!
-In the winter months, I knit and crochet - making way too many scarfs, toques, and mittens for my family. 
-When the weather is warmer, I enjoy hiking in park trails.🌱
-
 📫 You can reach me at van.ngo@okta.com.
 
 <!---
